@@ -20,3 +20,11 @@ Propósito
 
 Proyecto Maven utilizado para demostrar la preparación y gestión de un repositorio Git, incluyendo control de cambios, commits, ramas, integración y publicación en GitHub.
 
+
+
+Evidencia T2
+
+
+
+Evaluación 02 de Lenguaje de Programación II. Se demuestra el uso de Git para el control de versiones, commits y gestión del repositorio.
+
