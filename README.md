@@ -39,3 +39,9 @@ Se realizan modificaciones al README para demostrar la identificación, preparac
 Control de cambios
 
 Se realizaron modificaciones controladas mediante Git, utilizando el Working Directory, Staging Area y repositorio local para gestionar los cambios de la evaluación T2.
+
+Gestión de ramas
+
+Rama utilizada: feature-goicochea.
+
+En esta rama se desarrolló de manera independiente la clase ControlVersion_Goicochea.java, destinada a identificar la funcionalidad desarrollada mediante un flujo de trabajo con ramas Git.
