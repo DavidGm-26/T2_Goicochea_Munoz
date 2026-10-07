@@ -36,3 +36,6 @@ Control de cambios
 
 Se realizan modificaciones al README para demostrar la identificación, preparación y confirmación de cambios mediante Git.
 
+Control de cambios
+
+Se realizaron modificaciones controladas mediante Git, utilizando el Working Directory, Staging Area y repositorio local para gestionar los cambios de la evaluación T2.
