@@ -28,3 +28,11 @@ Evidencia T2
 
 Evaluación 02 de Lenguaje de Programación II. Se demuestra el uso de Git para el control de versiones, commits y gestión del repositorio.
 
+
+
+Control de cambios
+
+
+
+Se realizan modificaciones al README para demostrar la identificación, preparación y confirmación de cambios mediante Git.
+
